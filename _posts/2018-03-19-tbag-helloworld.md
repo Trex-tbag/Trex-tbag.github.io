@@ -7,10 +7,10 @@ author:     "tbag"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+    - 杂谈
 ---
 
-> “Yeah It's on. ”
+> “believe in yourself”
 
 
 ## 前言
