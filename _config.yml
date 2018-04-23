@@ -92,5 +92,12 @@ friends: [
     # },{
         title: "test",
         href: "http://baidu.com/"
+    },
+    {
+    #     title: "Su",
+    #     href: "http://su.gallery/"
+    # },{
+        title: "zeroisone",
+        href: "https://zeroisone.cc/"
     }
 ]
