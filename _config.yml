@@ -67,7 +67,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "诗和远方吗？"
+sidebar-about-description: "菜的抠脚！！"
 sidebar-avatar: /img/tbag.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -91,7 +91,7 @@ friends: [
     #     href: "http://su.gallery/"
     # },{
         title: "test",
-        href: "http://baidu.com/"
+        href: ""
     },
     {
     #     title: "Su",
