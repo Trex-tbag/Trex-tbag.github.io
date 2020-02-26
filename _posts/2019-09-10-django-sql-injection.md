@@ -18,7 +18,7 @@ tags:
 
 近期，Django进行了安全更新，这里对其CVE-2019-14234的SQL注入漏洞进行分析。
 
-![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa33d7e4d-c15f-4334-bf0b-5f0ae0abda33/4B8B9E8D-DA68-4AE7-B51F-8786C2FA17A3.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa33d7e4d-c15f-4334-bf0b-5f0ae0abda33/4B8B9E8D-DA68-4AE7-B51F-8786C2FA17A3.png)
+![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa33d7e4d-c15f-4334-bf0b-5f0ae0abda33%2F4B8B9E8D-DA68-4AE7-B51F-8786C2FA17A3.png](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa33d7e4d-c15f-4334-bf0b-5f0ae0abda33%2F4B8B9E8D-DA68-4AE7-B51F-8786C2FA17A3.png)
 
 ## 环境搭建
 
