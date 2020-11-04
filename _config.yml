@@ -1,10 +1,10 @@
 # Site settings
-title: T-bag Blog
-SEOTitle: T-bag的博客 | tbag Blog
+title: ming Blog
+SEOTitle: ming的博客 | ming Blog
 header-img: img/home-bg.jpg
 email: zweiming123@gmail.com
 description: "，"
-keyword: "Trex, T-bag的博客, 博客, 个人网站, 互联网, Web, web安全 , Python , JAVA, 移动安全 ,Android"
+keyword: "ming的博客, 博客, 个人网站, 互联网, Web, web安全 , Python , JAVA, 移动安全 ,Android"
 url: "https://trex-tbag.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -49,7 +49,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: tbag
+disqus_username: ming
 
 # Netease setttings
 netease_comment: false
